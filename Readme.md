@@ -2,5 +2,5 @@
 
 Corrected Installation Guide
 
-New Test
+New Test and more details
 
